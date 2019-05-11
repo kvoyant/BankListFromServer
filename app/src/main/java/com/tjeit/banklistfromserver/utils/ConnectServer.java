@@ -13,6 +13,7 @@ public class ConnectServer {
         void onResponse(JSONObject json);
     }
 
+    //필요한 서버의 요청들을 하나하나 메쏘드로 만들어 주자.
     public static void getRequestInfoBank(Context context, /* 필요한 파라미터 변수들*/ final JsonResponsHandler handler) {
 
     }
