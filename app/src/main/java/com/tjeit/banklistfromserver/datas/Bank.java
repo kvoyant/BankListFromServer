@@ -28,4 +28,12 @@ public class Bank {
 
         return bankObject;
     }
+
+//    alt + insert
+//    public Bank(int id, String code, String name, String logo) {
+//        this.id = id;
+//        this.code = code;
+//        this.name = name;
+//        this.logo = logo;
+//    }
 }
